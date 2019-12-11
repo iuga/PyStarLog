@@ -9,7 +9,7 @@ A starlog or log entry was a recording entered into a starship computer record f
 
 ## Installation
 
-```python
+```bash
 pip install --upgrade git+https://github.com/iuga/PyStarLog
 ```
 ## Usage
@@ -42,7 +42,7 @@ It's going to create these files:
 
 With the following content:
 
-```python
+```
 
 Experiment #1 (v:1.0-ml)
 StarDate: 2018-08-04 12:46:55
